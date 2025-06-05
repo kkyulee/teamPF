@@ -1,0 +1,78 @@
+#wrap {
+  width: 100%;
+}
+
+#wrap .member-inner {
+  width: 1250px;
+  margin: auto;
+  padding: 120px 0;
+  text-align: center;
+  position: relative;
+}
+
+#wrap p {
+  color: #954f74;
+  font-weight: 350;
+}
+
+#wrap select {
+  width: 864px;
+  height: 64px;
+  background-color: #fff;
+  border: 5px solid #954f74;
+  box-shadow: none;
+  transition: box-shadow 0.3s ease;
+  border-radius: 0;
+  padding-left: 10px;
+  font-weight: 350;
+  font-size: 16px;
+}
+#wrap select.on {
+  box-shadow: 8px 8px 1px rgba(150, 150, 150, 0.4);
+  transition: box-shadow;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+#wrap .member-inner .menu {
+}
+
+#wrap .member-inner .menu p {
+  margin-bottom: 50px;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+#wrap .member-inner .menu select {
+  margin-bottom: 10px;
+}
+
+input {
+  width: 864px;
+  height: 64px;
+  background-color: #fff;
+  border: 5px solid #954f74;
+  transition: box-shadow 0.3s ease;
+  border-radius: 0;
+  margin-bottom: 30px;
+  padding-left: 10px;
+  padding-right: 20px;
+  font-weight: 350;
+  font-size: 16px;
+}
+input.on {
+  box-shadow: 8px 8px 1px rgba(150, 150, 150, 0.4);
+  transition: box-shadow;
+  transition: box-shadow 0.3s ease-in-out;
+}
+button {
+  width: 112px;
+  height: 64px;
+  background-color: #954f74;
+  color: #ffffff;
+  padding: 16px, 20px;
+  font-size: 20px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #6d003a;
+}

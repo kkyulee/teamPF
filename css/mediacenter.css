@@ -1,0 +1,170 @@
+.inner {
+  width: 1250px;
+  position: relative;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 5px;
+}
+
+.content-head {
+  margin-top: 25px;
+  padding-bottom: 20px;
+  border-bottom: 3px solid #88304e;
+}
+.content-head h3 {
+  font-size: 30px;
+  font-weight: 700;
+}
+.content-head p {
+  margin-top: 15px;
+  font-weight: 500;
+}
+.wrap {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.left {
+  margin: 40px 15px;
+  width: auto;
+}
+.left strong {
+  display: block;
+  margin: 30px 0;
+  font-weight: 500;
+  color: #88304e;
+  font-size: 24px;
+}
+.left p {
+  /* margin-top: 20px; */
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 180%;
+}
+/*  */
+.content-bottom {
+  margin-top: 40px;
+}
+.left .bottom-head {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+.left .bottom-head a::after {
+  border-bottom: 1px solid #797979;
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 4px;
+  width: 38px;
+  display: none;
+}
+.left .bottom-head h4 {
+  font-size: 18px;
+  font-weight: 700;
+}
+.left .bottom-head a {
+  position: relative;
+}
+
+.left .bottom-main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.left .bottom-main .main-con {
+  box-sizing: border-box;
+  border: 1px solid #dddddd;
+  padding: 30px 20px;
+  position: relative;
+  width: 450px;
+  aspect-ratio: 4 / 2;
+}
+
+.left .main-con a {
+  font-weight: 600;
+  font-size: 18px;
+}
+.left .main-con a span:hover {
+  color: #88304e;
+  border-bottom: 1px solid #88304e;
+}
+.left .main-con p {
+  position: absolute;
+  bottom: 20px;
+  color: #808080;
+}
+/* left */
+.right {
+  margin-left: 15px;
+}
+.right h4 {
+  margin-left: 10px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.right .box {
+  width: 300px;
+  padding: 10px;
+  color: black;
+}
+.right .box .profile {
+  display: flex;
+  margin: 15px;
+}
+.profile a img {
+  transition: border 0.3s ease-in-out;
+}
+.profile a img:hover {
+  outline: 3px solid #88304e;
+}
+.right .box .box1 p {
+  font-size: 14px;
+  font-weight: 500;
+  margin-left: 10px;
+}
+.right .box .name,
+.tel {
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.profile-text {
+  margin-left: 15px;
+}
+.profile-text a {
+  font-weight: 800;
+  font-size: 16px;
+}
+.name {
+  position: relative;
+  padding-bottom: 8px;
+}
+.name::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  width: 30px;
+  border: 1px solid #88304e;
+}
+.profile-text {
+  position: relative;
+}
+.tel {
+  position: absolute;
+  bottom: 8px;
+}
+.right .box .box1 {
+  margin-bottom: 20px;
+  background-color: #ededed;
+}
+.right .box .box2 {
+  background-color: #ededed;
+}
+.email:hover {
+  position: relative;
+  display: inline-block;
+  color: #88304e;
+}
