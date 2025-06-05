@@ -29,5 +29,6 @@ closeAllBtn.addEventListener('click', () => {
         navList.classList.remove('show');
         icon.classList.remove('xi-angle-up');
         icon.classList.add('xi-angle-down');
+        console.log();
     });
 });
