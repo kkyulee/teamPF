@@ -25,8 +25,11 @@ ex) 바탕화면에 팀깃 이라는 폴더를 생성하고 해당 폴더를 Loc
 ### 4. 원본 요소와 수정 사항 맞추기
 항상 작업 전 메인 레포지토리에 변경 사항이 생길 수 있으니 
 <img width="966" alt="스크린샷 2025-06-05 오후 5 55 47" src="https://github.com/user-attachments/assets/ab8e65e8-dec3-4248-ad21-196c9ea35226" />
+<br>
 오른쪽 빨간 영역을 먼저 클릭 합니다.
+<br>
 이후에 
+<br>
 두번째 영역을 클릭하여
 <img width="363" alt="스크린샷 2025-06-05 오후 5 58 31" src="https://github.com/user-attachments/assets/674745db-4c90-41b7-bb72-249c3276a131" />
 `upstream/main` 이라고 된 항목을 선택 후 병합 시켜줍니다.
