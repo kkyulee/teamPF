@@ -31,7 +31,9 @@ ex) 바탕화면에 팀깃 이라는 폴더를 생성하고 해당 폴더를 Loc
 이후에 
 <br>
 두번째 영역을 클릭하여
+<Br>
 <img width="363" alt="스크린샷 2025-06-05 오후 5 58 31" src="https://github.com/user-attachments/assets/674745db-4c90-41b7-bb72-249c3276a131" />
+<br>
 `upstream/main` 이라고 된 항목을 선택 후 병합 시켜줍니다.
 
 ### 5. 수정된 사항 
