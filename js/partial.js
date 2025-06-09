@@ -1,5 +1,5 @@
 (() => {
-    getPage('~/kor/common/header.html', '#header');
+    getPage('/teamPF/kor/common/header.html', '#header');
 
-    getPage('~/kor/common/footer.html', '#footer');
+    getPage('/teamPF/kor/common/footer.html', '#footer');
 })();
