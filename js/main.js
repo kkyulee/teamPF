@@ -1,5 +1,5 @@
 
-const url = process.env.PUBLIC_URL;
+
 const arrBanner = [
     { id: 1, img: '/images/banner/1.jpg', title: '법무법인(유) 세종, ‘Benchmark Litigation Asia-Pacific Awards 2024’에서 ‘Impact Case of the Year’ 등 수상', content: '법무법인(유) 세종(이하 ‘세종’)이 ‘Benchmark Litigation Asia-Pacific Awards 2024’에서 ‘Impact Case of The Year(올해의 영향력 있는 사건)’을 수상하는 영예를 안았습니다.' },
     { id: 2, img: '/images/banner/2.jpg', title: '법법무법인(유) 세종, GCR awards 2025 ‘올해의 아태지역 기업결합상’ 수상', content: '법무법인(유) 세종이 저명한 공정거래 분야 전문저널인 GCR(Global Competition Review)이 수여하는 ‘올해의 아태지역 기업결합상(Merger Control Matter of the Year: Asia Pacific, Middle East and Africa)’을 수상하는 영예를 안았습니다.' },
