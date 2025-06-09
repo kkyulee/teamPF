@@ -8,3 +8,4 @@ const getPage = (src, tag) => {
             get(tag).innerHTML = res;
         })
 }
+const BASE_URL = window.location.origin + 'teamPF'
