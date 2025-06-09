@@ -116,7 +116,7 @@
 .con1::before {
   content: "";
   display: block;
-  background-image: url(/images/세종소개img/company_02_06.jpg);
+  background-image: url(../images/세종소개img/company_02_06.jpg);
   background-repeat: no-repeat;
   background-size: 100% auto;
   width: 1250px;
@@ -166,7 +166,7 @@
   right: -350px;
   height: 550px;
   background-size: cover;
-  background-image: url(/images/세종소개img/company_02_02.jpg);
+  background-image: url(../images/세종소개img/company_02_02.jpg);
   background-repeat: no-repeat;
   width: 400px;
   z-index: -2;
@@ -232,7 +232,7 @@
   width: 100%;
   height: 100%;
   background-image: url(../images/세종소개img/company_02_04.jpg),
-    url(/images/세종소개img/company_02_05.jpg);
+    url(../images/세종소개img/company_02_05.jpg);
 
   background-position: 0 0, 34rem 7rem;
   background-repeat: no-repeat, no-repeat;
