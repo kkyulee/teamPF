@@ -1,6 +1,6 @@
 (() => {
     getPage('/teamPF/kor/common/header.html', '#header');
-    const BASE_URL = window.location.origin + "teamPF";
+    const BASE_URL = window.location.origin + "/teamPF";
     const menu = document.querySelector(".menu");
     let html = `<li><a href="${BASE_URL}/kor/category/index.html">업무분야</a></li>
         <li><a href="${BASE_URL}/kor/member/index.html">구성원</a></li>
