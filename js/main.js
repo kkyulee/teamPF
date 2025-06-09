@@ -273,6 +273,8 @@ const fnSetHeaderMenu = () => {
         <li><a href="${BASE_URL}/kor/mediacenter/index.html">미디어센터</a></li>
         <li><a href="${BASE_URL}/kor/people/index.html">인재영입</a></li>
         <li><a href="${BASE_URL}/kor/about/index.html">법인소개</a></li>`;
+
+    console.log()
     menu.innerHTML = html;
 }
 (() => {
