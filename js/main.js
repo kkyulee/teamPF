@@ -1,12 +1,12 @@
 
 
 const arrBanner = [
-    { id: 1, img: 'teamPF/images/banner/1.jpg', title: '법무법인(유) 세종, ‘Benchmark Litigation Asia-Pacific Awards 2024’에서 ‘Impact Case of the Year’ 등 수상', content: '법무법인(유) 세종(이하 ‘세종’)이 ‘Benchmark Litigation Asia-Pacific Awards 2024’에서 ‘Impact Case of The Year(올해의 영향력 있는 사건)’을 수상하는 영예를 안았습니다.' },
-    { id: 2, img: 'teamPF/images/banner/2.jpg', title: '법법무법인(유) 세종, GCR awards 2025 ‘올해의 아태지역 기업결합상’ 수상', content: '법무법인(유) 세종이 저명한 공정거래 분야 전문저널인 GCR(Global Competition Review)이 수여하는 ‘올해의 아태지역 기업결합상(Merger Control Matter of the Year: Asia Pacific, Middle East and Africa)’을 수상하는 영예를 안았습니다.' },
-    { id: 3, img: 'teamPF/images/banner/3.jpg', title: '오종한 대표변호사, ALB ‘올해의 북아시아지역 소송 전문 변호사 15인’ 선정', content: '법무법인(유) 세종의 오종한 대표변호사가 ALB(Asian Legal Business) ‘올해의 북아시아 소송 전문 15대 변호사(North Asia Top 15 Litigators)’에 선정되는 영예를 안았습니다.' },
-    { id: 4, img: 'teamPF/images/banner/4.jpg', title: '법무법인(유) 세종, 2024 대한민국 베스트 로펌&로이어 평가에서 서비스 부문 대상 등 수상', content: '법무법인(유) 세종이 한경비즈니스, 한국경제신문, 한국사내변호사회가 공동으로 주관한 ‘2024 대한민국 베스트 로펌&로이어’에서 서비스 부문 대상을 수상하는 영광을 안았습니다.' },
-    { id: 5, img: 'teamPF/images/banner/5.jpg', title: '법무법인(유) 세종, 2024 ALB 한국법률대상에서 ‘올해의 분쟁해결 변호사’ 등 3개 부문 수상', content: '2024 ALB 한국법률대상에서 세종의 박영석 변호사(사법연수원 34기)가 ‘올해의 분쟁해결 변호사(Dispute Resolution Lawyer of the Year)’로 선정되었습니다. 또한 ‘올해의 채권시장 딜(Debt Market Deal of the Year)’, ‘올해의 주식시장 딜(Equity Market Deal of the Year)’에 선정되며 총 3개 부문을 수상하는 영예를 안았습니다.' }
-];
+    { id: 1, img: '/teamPF/images/banner/1.jpg', title: '법무법인(유) 세종, ‘Benchmark Litigation Asia-Pacific Awards 2024’에서 ‘Impact Case of the Year’ 등 수상', content: '법무법인(유) 세종(이하 ‘세종’)이 ‘Benchmark Litigation Asia-Pacific Awards 2024’에서 ‘Impact Case of The Year(올해의 영향력 있는 사건)’을 수상하는 영예를 안았습니다.' },
+    { id: 2, img: '/teamPF/images/banner/2.jpg', title: '법법무법인(유) 세종, GCR awards 2025 ‘올해의 아태지역 기업결합상’ 수상', content: '법무법인(유) 세종이 저명한 공정거래 분야 전문저널인 GCR(Global Competition Review)이 수여하는 ‘올해의 아태지역 기업결합상(Merger Control Matter of the Year: Asia Pacific, Middle East and Africa)’을 수상하는 영예를 안았습니다.' },
+    { id: 3, img: '/teamPF/images/banner/3.jpg', title: '오종한 대표변호사, ALB ‘올해의 북아시아지역 소송 전문 변호사 15인’ 선정', content: '법무법인(유) 세종의 오종한 대표변호사가 ALB(Asian Legal Business) ‘올해의 북아시아 소송 전문 15대 변호사(North Asia Top 15 Litigators)’에 선정되는 영예를 안았습니다.' },
+    { id: 4, img: '/teamPF/images/banner/4.jpg', title: '법무법인(유) 세종, 2024 대한민국 베스트 로펌&로이어 평가에서 서비스 부문 대상 등 수상', content: '법무법인(유) 세종이 한경비즈니스, 한국경제신문, 한국사내변호사회가 공동으로 주관한 ‘2024 대한민국 베스트 로펌&로이어’에서 서비스 부문 대상을 수상하는 영광을 안았습니다.' },
+    { id: 5, img: '/teamPF/images/banner/5.jpg', title: '법무법인(유) 세종, 2024 ALB 한국법률대상에서 ‘올해의 분쟁해결 변호사’ 등 3개 부문 수상', content: '2024 ALB 한국법률대상에서 세종의 박영석 변호사(사법연수원 34기)가 ‘올해의 분쟁해결 변호사(Dispute Resolution Lawyer of the Year)’로 선정되었습니다. 또한 ‘올해의 채권시장 딜(Debt Market Deal of the Year)’, ‘올해의 주식시장 딜(Equity Market Deal of the Year)’에 선정되며 총 3개 부문을 수상하는 영예를 안았습니다.' }
+];/
 const arrNotice = [
     {
         title: "세미나",
